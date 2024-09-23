@@ -33,4 +33,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Demo
 
-![Demo](https://github.com/walaazahranthedeveloper/angular-ngrx-demo/blob/master/red.mp4)
+![Demo](https://github.com/walaazahranthedeveloper/angular-ngrx-demo/blob/master/screencapture-localhost-4200-2024-09-23-13_44_14.png)
