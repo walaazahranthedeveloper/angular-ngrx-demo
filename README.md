@@ -22,6 +22,15 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+###  State Management
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+ #### For larger applications, consider managing state across components using tools like NgRx or Angular’s built-in services with observables.
+
+  ##### NgRx: Learn about actions, reducers, effects, and the store.
+  ##### BehaviorSubject: Manage shared state within services using BehaviorSubjects.
+  ##### We use here NgRx
+
+## Demo
+
+![Demo](https://github.com/walaazahranthedeveloper/angular-ngrx-demo/blob/master/red.mp4)
